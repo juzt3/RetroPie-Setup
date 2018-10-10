@@ -3,6 +3,7 @@ RetroPie-Setup
 
 General Usage
 -------------
+I'm creating this fork becose i want to add naomi and atomiswave support
 
 Shell script to setup the Raspberry Pi, Vero4K, ODroid-C1 or a PC running Ubuntu with many emulators and games, using EmulationStation as the graphical front end. Bootable pre-made images for the Raspberry Pi are available for those that want a ready to go system, downloadable from the releases section of GitHub or via our website at https://retropie.org.uk
 
@@ -20,7 +21,7 @@ Then you can download the latest RetroPie setup script with
 
 ```shell
 cd
-git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+git clone --depth=1 https://github.com/juzt3/RetroPie-Setup.git
 ```
 
 The script is executed with 
